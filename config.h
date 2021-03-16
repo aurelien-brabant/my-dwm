@@ -55,7 +55,7 @@ static const unsigned int alphas[][3]      = {
 
 /******************************* TAGS ****************************************/
 
-static const char *tags[] = { "", "", "", "", "", "", "", "" };
+static const char *tags[] = { "www", "code", "sys", "note", "video", "virt", "gfx", "social", "misc" };
 
 /******************************* RULES ***************************************/
 
